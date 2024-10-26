@@ -12,7 +12,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣶⣤⣉⣛⠻⠇⢠⣿⣾⣿⡄⢻⡇\
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣦⣤⣾⣿⣿⣿⣿⣆⠁\
 ╔──────────────────────────────────────────╗\
-  @ nycteros\
+  nyct @ nycteros\
 ╚──────────────────────────────────────────╝\
 \
  ![python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=%230D1117) ![golang](https://img.shields.io/badge/golang-white?style=for-the-badge&logo=go&logoColor=white&color=%230D1117) ![javascript](https://img.shields.io/badge/javascript-ffffff?style=for-the-badge&logo=javascript&logoColor=%23ffffff&color=%23230D1117) ![typescript](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=white&color=%230D1117)\
