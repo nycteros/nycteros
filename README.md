@@ -19,5 +19,5 @@
      ![rust](https://img.shields.io/badge/rust-230D1117?style=for-the-badge&logo=rust&logoColor=%23ffffff&color=%23230D1117) ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=%23ffffff&color=%230D1117) ![nodejs](https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=node.js&logoColor=%23ffffff&color=%230D1117) ![django](https://img.shields.io/badge/DJANGO-5FA04E?style=for-the-badge&logo=django&logoColor=%23ffffff&color=%230D1117)\
 \
 \
-         [![tele](https://img.shields.io/badge/%40nycteros-0D1117?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/nycteros) [![github](https://img.shields.io/badge/%40nycteros-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/nycteros)\
+         [![tele](https://img.shields.io/badge/%40nycteros-0D1117?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/nycteros) [![github](https://img.shields.io/badge/%40nycteros-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/nycteros)\
 ╚────────────────────────────────────────────────╝
